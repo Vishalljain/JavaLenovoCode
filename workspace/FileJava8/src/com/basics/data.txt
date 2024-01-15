@@ -1,0 +1,6 @@
+hello
+data 15
+try(Stream<String> lines = Files.lines(path).onClose(System.out.println("File closed")
+line15
+hi
+god
